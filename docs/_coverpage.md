@@ -8,7 +8,7 @@
 
 - 简单、轻便 (压缩后 ~21kB)
 - 无需生成 html 文件
-- 众多主题
+- 啦啦啦
 
 [GitHub](https://github.com/jackson0714/PassJava-Learning)
 [Get Started](README.md)
