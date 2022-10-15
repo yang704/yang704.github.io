@@ -4,7 +4,7 @@
 
 # 昨夜书 <small>1.0.0</small>
 
-> console.log("hello wold")。
+> Mr Yang的工作学习之路
 
 - 故不积硅步无以至千里
 - 不积小流无以成江海
