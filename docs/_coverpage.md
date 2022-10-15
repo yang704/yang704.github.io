@@ -11,4 +11,4 @@
 - I Can Do All Things!
 
 [GitHub](https://github.com/yang704/yang704.github.io)
-[Get Started](README.md)
+[Get Started](/git/git常用命令集合.md)
