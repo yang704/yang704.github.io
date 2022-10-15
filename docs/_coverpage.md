@@ -1,14 +1,14 @@
 <!-- _coverpage.md -->
 
-![logo](_media/icon.svg)
+![logo](/icon.svg)
 
-# docsify <small>3.5</small>
+# 昨夜书 <small>1.0.0</small>
 
 > 一个神奇的文档网站生成器。
 
-- 简单、轻便 (压缩后 ~21kB)
-- 无需生成 html 文件
-- 啦啦啦
+- 故不积硅步无以至千里
+- 不积小流无以成江海
+- I Can Do All Things!
 
-[GitHub](https://github.com/jackson0714/PassJava-Learning)
+[GitHub](https://github.com/yang704/yang704.github.io)
 [Get Started](README.md)
