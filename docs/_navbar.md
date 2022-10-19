@@ -3,6 +3,7 @@
     - [Uview](https://www.uviewui.com/)
     - [iView](https://www.iviewui.com/)
     - [vite官网](https://vitejs.cn/)
+    - [pinia中文网](https://pinia.web3doc.top/)
     - [Vue3文档](https://cn.vuejs.org/)
     - [Vue2文档](https://v2.cn.vuejs.org/)
     - [TypeScript教程（阮一峰）](http://ts.xcatliu.com/)
