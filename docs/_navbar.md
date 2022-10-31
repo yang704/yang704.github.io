@@ -14,3 +14,5 @@
     - [eCharts官网](https://echarts.apache.org/zh/index.html)
     - [eCharts社区1](https://www.makeapie.cn/echarts)
     - [eCharts社区2](http://echarts.zhangmuchen.top/)
+    - [若依官方文档](http://www.ruoyi.vip/)
+    - [若依Vue3版本代码仓库](https://github.com/yangzongzhuan/RuoYi-Vue3)
