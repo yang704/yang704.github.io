@@ -4,6 +4,7 @@
 * [uniapp学习记录](/uniapp/uniapp应用启动onLuaunch方法.md)
     - [uniapp 应用启动onLuaunch方法，改为同步，执行后再执行页面加载](/uniapp/uniapp应用启动onLuaunch方法.md)
     - [uniapp 小程序开发环境搭建](/uniapp/uniapp小程序开发环境搭建.md)
+    - [uniapp 开发安卓通话录音APP爬坑指南](/uniapp/安卓通话录音APP爬坑指南.md)
 * [node学习记录](/nodejs/)
 * [ES6学习记录](/ES6/)
 * [工具](/Tools/工具地址.md)
