@@ -7,8 +7,6 @@
     - [uniapp 开发安卓通话录音APP爬坑指南](/uniapp/安卓通话录音APP爬坑指南.md)
 * [node学习开发指南](/nodejs/)
 * [ES6学习开发指南](/ES6/)
-* [node学习开发指南](/nodejs/)
-* [ES6学习开发指南](/ES6/)
 * [TypeScript学习开发指南](/TypeScript/typescript环境配置.md)
     - [typescript环境配置](/TypeScript/typescript环境配置.md)
     - [原始类型与对象类型](/TypeScript/原始类型与对象类型.md)
