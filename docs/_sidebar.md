@@ -4,16 +4,13 @@
 * [uniapp学习开发指南](/uniapp/uniapp应用启动onLuaunch方法.md)
     - [uniapp 应用启动onLuaunch方法，改为同步，执行后再执行页面加载](/uniapp/uniapp应用启动onLuaunch方法.md)
     - [uniapp 小程序开发环境搭建](/uniapp/uniapp小程序开发环境搭建.md)
-<<<<<<< HEAD
     - [uniapp 开发安卓通话录音APP爬坑指南](/uniapp/安卓通话录音APP爬坑指南.md)
 * [node学习记录](/nodejs/)
 * [ES6学习记录](/ES6/)
-=======
 * [node学习开发指南](/nodejs/)
 * [ES6学习开发指南](/ES6/)
 * [TypeScript学习开发指南](/TypeScript/typescript环境配置.md)
     - [typescript环境配置](/TypeScript/typescript环境配置.md)
     - [原始类型与对象类型](/TypeScript/原始类型与对象类型.md)
->>>>>>> db92358 (添加ts学习指南)
 * [工具](/Tools/工具地址.md)
     - [来自龙宝宝的前端工具集](/Tools/工具地址.md)
