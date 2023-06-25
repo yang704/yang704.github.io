@@ -87,3 +87,33 @@ git config --global user.email "邮箱"
 
 ssh-keygen -t rsa -C "自己文件中的地址"
 ```
+##### git本地分支的新建与远程分支代码拉取
+```
+//1、将远程分支拉取到本地
+git fetch origin yang<远程分支名>
+
+//2、在本地创建分支yang并切换至该分支
+git checkout -b yang<本地分支名> origin/yang<远程分支名>
+
+//3、把yang远程分支上的内容都拉取到本地分支yang
+git pull origin yang
+```
+
+##### git远程分支master合并代码到本地分支yang
+```
+//1、切换分支到要合并的远程分支（如果本地没有master分支，按上面的步骤新建本地分支master）
+git checkout master
+
+//2、拉取远程分支，确保当前分支是最新代码
+git pull origin master
+
+//3、切换到自己的分支
+git checkout yang
+
+//4、将master分支合并到当前分支yang
+git merge master
+
+//5、若提示Automatic merge failed; fix conflicts and then commit the result.说明合并代码的时候出现冲突，解决冲突后先add并commit，然后push代码。如果没有出现这个提示，说明没有冲突出现，直接push代码。
+git push 
+
+```
