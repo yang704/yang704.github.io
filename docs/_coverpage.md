@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-![logo](/icon.svg)
+![logo](/icon.png)
 
 # 昨夜书 <small>1.0.0</small>
 
