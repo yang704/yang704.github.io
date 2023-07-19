@@ -8,6 +8,7 @@
 * [node学习开发指南](/nodejs/Node.js编程基础概要)
     - [Node.js编程基础概要](/nodejs/Node.js编程基础概要.md)
     - [本地环境搭建与基础入门](/nodejs/本地环境搭建与基础入门.md)
+    - [自定义脚手架基础](/nodejs/自定义脚手架.md)
 * [ES6学习开发指南](/ES6/)
 * [TypeScript学习开发指南](/TypeScript/typescript环境配置.md)
     - [typescript环境配置](/TypeScript/typescript环境配置.md)
